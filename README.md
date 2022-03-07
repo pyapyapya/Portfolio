@@ -56,7 +56,7 @@
     
   **Description**
   - 토픽 모델링 알고리즘 구현 및 개선 
-      - Visual Genome Datasets에서 nltk Stemming을 이용한 데이터 전처리
+      - Stemming을 이용한 데이터 전처리
       - 토픽 모델링 알고리즘 PLSA, LDA 구현
       - 기존 element 연산에서 matrix 연산을 적용한 PLSA 모델 성능 개선
       - 토픽 분석을 위한 AIC, BIC, CAIC 구현
@@ -75,6 +75,6 @@
   - 쿼리 문서에 대한 Semantic Network Analysis 구현
     - 위키 문법이 포함된 텍스트 데이터를 정규식을 이용한 데이터 전처리
     - 쿼리 문서에 대한 서브 그래프 추출
-    - 문서간 가중치 및 유사도 구현을 위한 TF-IDF, cosine similiarity 적용
+    - 문서간 가중치 및 유사도 구현을 위한 TF-IDF, Cosine Similiarity 적용
     - 중요 노드를 파악하기 위한 Node Centrality, Clustering Coefficient 적용
     - Interactive한 그래프 시각화 구현
