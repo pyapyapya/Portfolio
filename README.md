@@ -25,7 +25,7 @@
   - 영상 분석 보고서 문장 추천 시스템 아키텍쳐 설계 및 개발 (2021.03~2021.08)
       - 오프라인 환경에서 딥러닝 적용을 위한 서버 환경 구축
       - 휴먼 오류에 의한 OOV(Out-Of-Vocabulary)에 강한 FastText 제안
-      - 문장 생성을 위한 모델 개발 및 Top-k개 만큼 추천하기 위해 Beam-Search 도입
+      - 문장 생성을 위한 모델 개발 및 Top-k개 만큼 추천하기 위한 Beam-Search 도입
       - 논문 개제를 통한 성과 발표 (모델 구축, 단어 기반 문장 생성을 기반 디코딩 방법 파트 작성)
     
  ---
@@ -41,7 +41,7 @@
     
   - CNN과 RNN 계열 모델을 적용한 Scene Graph Generation 아키텍쳐 설계 및 개발
   - n-triple **subject-predicate-object** 데이터에서 Sequential Data 적용을 위해 **subject-object-predicate** 형태로 데이터 재구성하는 아이디어 제안
-  - 논문 모델, 실험 파트 (Creating a Deep Learning-Based Scene Graph, System Implementation and Testing) 작성
+  - 논문 개제를 통한 성과 발표 (Scene Graph Generation 모델 및 실험) 파트 작성
     
 ---
     
@@ -55,7 +55,7 @@
     
   **Description**
   - 토픽 모델링 알고리즘 구현 및 개선 
-      - nltk 라이브러리에서 Stemming을 이용한 데이터 전처리
+      - Visual Genome Datasets에서 nltk Stemming을 이용한 데이터 전처리
       - 토픽 모델링 알고리즘 PLSA, LDA 구현
       - 기존 element 연산에서 matrix 연산을 적용한 PLSA 모델 성능 개선
       - 토픽 분석을 위한 AIC, BIC, CAIC 구현
