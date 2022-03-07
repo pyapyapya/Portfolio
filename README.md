@@ -40,7 +40,7 @@
   **Description**
     
   - CNN과 RNN 계열 모델을 적용한 Scene Graph Generation 아키텍쳐 설계 및 개발
-  - n-triple <subject-predicate-object> 데이터에서 Sequential Data 적용을 위해 <subject-object-predicate> 형태로 데이터 재구성하는 아이디어 제안
+  - n-triple **subject-predicate-object** 데이터에서 Sequential Data 적용을 위해 **subject-object-predicate** 형태로 데이터 재구성하는 아이디어 제안
   - 논문 모델, 실험 파트 (Creating a Deep Learning-Based Scene Graph, System Implementation and Testing) 작성
     
 ---
