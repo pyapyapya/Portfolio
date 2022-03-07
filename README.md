@@ -32,7 +32,7 @@
     
 ### **Semantic Scene Graph Generation Using RDF Model and Deep Learning 논문 작성 (2020.09~2020.12) *연구실 프로젝트***
     
-   (![image](https://user-images.githubusercontent.com/42240862/156994847-ad6c5522-8af7-49f1-b6cb-66c4c1dcd8ad.png) <br>
+   ![image](https://user-images.githubusercontent.com/42240862/156994847-ad6c5522-8af7-49f1-b6cb-66c4c1dcd8ad.png) <br>
    CNN을 활용한 이미지 개체 인식 및 RNN 계열 모델과 RDF를 적용한 관계 인식 기술 개발
     
    사용 기술: `Python`, `Pytorch`, `Nltk`, `Matplotlib`
