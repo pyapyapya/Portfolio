@@ -33,7 +33,7 @@
     
 ### **Semantic Scene Graph Generation Using RDF Model and Deep Learning 논문 작성 (2020.09~2020.12) *연구실 프로젝트***
     
-   ![image](https://user-images.githubusercontent.com/42240862/156994847-ad6c5522-8af7-49f1-b6cb-66c4c1dcd8ad.png) <br>
+   <img src=https://user-images.githubusercontent.com/42240862/156994847-ad6c5522-8af7-49f1-b6cb-66c4c1dcd8ad.png>
    CNN을 활용한 이미지 개체 인식 및 RNN 계열 모델과 RDF를 적용한 관계 인식 기술 개발
     
    사용 기술: `Python`, `Pytorch`, `Nltk`, `Matplotlib`
@@ -48,7 +48,7 @@
     
 ### **이미지 어노테이션을 위한 토픽 모델링 연구 (2020.06~2020.08) *연구실 프로젝트***
   
-  <img src=https://user-images.githubusercontent.com/42240862/156995040-aba5f410-f08d-441d-a2ba-7f2cd976582d.png width="70%" height="70%">
+  <img src=https://user-images.githubusercontent.com/42240862/156995040-aba5f410-f08d-441d-a2ba-7f2cd976582d.png width="60%" height="60%">
     
   이미지의 주제를 추출하기 위한 토픽 모델링을 적용한 연구 및 개발
     
