@@ -42,7 +42,7 @@
     
   - CNN과 RNN 계열 모델을 적용한 Scene Graph Generation 아키텍쳐 설계 및 개발
   - n-triple **subject-predicate-object** 데이터에서 Sequential Data 적용을 위해 **subject-object-predicate** 형태로 데이터 재구성하는 아이디어 제안
-  - 논문 를 통한 성과 발표 (Scene Graph Generation 모델 및 실험) 파트 작성
+  - 논문  통한 성과 발표 (Scene Graph Generation 모델 및 실험) 파트 작성
     
 ---
     
