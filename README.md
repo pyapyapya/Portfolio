@@ -7,7 +7,7 @@
 ---
 
 ### **지능형 행위기반 영상정보 분석기법 연구 (2019.10~2021.08) *국방과학기술연구소 위탁과제***
-   ![image](https://user-images.githubusercontent.com/42240862/156994981-c3cd451a-82a8-4cff-98c0-4b0230737158.png)
+   <img src=https://user-images.githubusercontent.com/42240862/157080698-ffa70bf3-ee92-4433-ade3-24c8a64f3adb.png width="70%" height="70%">
 
 
    딥 러닝, 온톨로지 및 빅데이터 기술을 활용한 행위기반 영상정보 분석 신뢰도를 향상하는 프로젝트 진행
@@ -18,6 +18,7 @@
 
   - 딥러닝 기반 개체/관계 인식 기술 개발 (2020.01~2020.08)
      - CNN 기반 이미지 개체 인식 및 Knowledge Graph를 활용한 관계 인식 기술 개발
+       <img src=https://user-images.githubusercontent.com/42240862/156994981-c3cd451a-82a8-4cff-98c0-4b0230737158.png width="60%" height="60%">
   - 딥러닝 기반 영상 분석 보고서 문장 데이터 셋 구축 (2020.09~2021.03)
      - 영상 분석 보고서 데이터 전처리
      - 데이터 전처리 및 형태소 분석
@@ -47,7 +48,7 @@
     
 ### **이미지 어노테이션을 위한 토픽 모델링 연구 (2020.06~2020.08) *연구실 프로젝트***
   
-  ![image](https://user-images.githubusercontent.com/42240862/156995040-aba5f410-f08d-441d-a2ba-7f2cd976582d.png)
+  <img src=https://user-images.githubusercontent.com/42240862/156995040-aba5f410-f08d-441d-a2ba-7f2cd976582d.png width="70%" height="70%">
     
   이미지의 주제를 추출하기 위한 토픽 모델링을 적용한 연구 및 개발
     
