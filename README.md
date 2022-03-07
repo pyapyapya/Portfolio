@@ -71,6 +71,7 @@
     
   사용 기술: `Python`, `Networkx`, `Matplotlib`, `Pyvis`, `Plotly`, `mpld3`, `ijson`
     
+  **Description**
   - 쿼리 문서에 대한 Semantic Network Analysis 구현
     - 위키 문법이 포함된 텍스트 데이터를 정규식을 이용한 데이터 전처리
     - 쿼리 문서에 대한 서브 그래프 추출
