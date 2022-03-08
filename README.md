@@ -68,5 +68,5 @@
   - 쿼리 문서에 대한 Semantic Network Analysis 구현
     - 쿼리 문서에 대한 서브 그래프 추출
     - 문서간 가중치 및 유사도 구현을 위한 TF-IDF, Cosine Similiarity 적용
-    - 중요 노드를 파악하기 위한 Node Centrality, Clustering Coefficient 적용
+    - 문서 중요도를 위한 Node Centrality, Clustering Coefficient 적용
     - Interactive한 그래프 시각화 구현
