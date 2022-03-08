@@ -20,14 +20,9 @@
      - CNN 기반 이미지 개체 인식 및 Knowledge Graph를 활용한 관계 인식 기술 개발
        <img src=https://user-images.githubusercontent.com/42240862/156994981-c3cd451a-82a8-4cff-98c0-4b0230737158.png width="60%" height="60%">
   - 딥러닝 기반 영상 분석 보고서 문장 데이터 셋 구축 (2020.09~2021.03)
-     - 영상 분석 보고서 파싱 (hwp to tsv)
-     - 데이터 전처리 및 형태소 분석
-     - 논문 게재를 통한 성과 발표 (해당 논문 작성 총괄)
   - 영상 분석 보고서 문장 추천 시스템 아키텍쳐 설계 및 개발 (2021.03~2021.08)
-      - 오프라인 환경에서 딥러닝 적용을 위한 환경 구축
-      - 휴먼 오류에 의한 OOV(Out-Of-Vocabulary)에 강한 FastText 제안
-      - 문장 생성을 위한 모델 개발 및 Top-k개 만큼 문장을 추천하기 위한 Beam-Search 도입
-      - 논문 게재를 통한 성과 발표 (모델 구축, 단어 기반 문장 생성을 기반 디코딩 방법 파트 작성)
+      <!-- - 휴먼 오류에 의한 OOV(Out-Of-Vocabulary)에 강한 FastText 제안 -->
+      - 문장 생성 및 추천을 위한 Beam-Search 도입
     
  ---
     
@@ -40,9 +35,8 @@
     
   **Description**
     
-  - CNN과 RNN 계열 모델을 적용한 Scene Graph Generation 아키텍쳐 설계 및 개발
-  - n-triple **subject-predicate-object** 데이터에서 Sequential Data 적용을 위해 **subject-object-predicate** 형태로 데이터 재구성하는 아이디어 제안
-  - 논문  통한 성과 발표 (Scene Graph Generation 모델 및 실험) 파트 작성
+  - C-RNN 계열 모델을 적용한 Scene Graph Generation 아키텍쳐 설계 및 개발
+  - n-triple 데이터를 Sequential 데이터로 재구성하는 아이디어 제안
     
 ---
     
@@ -56,7 +50,6 @@
     
   **Description**
   - 토픽 모델링 알고리즘 구현 및 개선 
-      - Stemming을 이용한 데이터 전처리
       - 토픽 모델링 알고리즘 PLSA, LDA 구현
       - 기존 element 연산에서 matrix 연산을 적용한 PLSA 모델 성능 개선
       - 토픽 분석을 위한 AIC, BIC, CAIC 구현
@@ -73,7 +66,6 @@
     
   **Description**
   - 쿼리 문서에 대한 Semantic Network Analysis 구현
-    - 위키 문법이 포함된 텍스트 데이터를 정규식을 이용한 데이터 전처리
     - 쿼리 문서에 대한 서브 그래프 추출
     - 문서간 가중치 및 유사도 구현을 위한 TF-IDF, Cosine Similiarity 적용
     - 중요 노드를 파악하기 위한 Node Centrality, Clustering Coefficient 적용
