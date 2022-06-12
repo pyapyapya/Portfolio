@@ -35,8 +35,8 @@
     
   **Description**
     
-  - C-RNN 계열 모델을 적용한 Scene Graph Generation 아키텍쳐 설계 및 개발
-  - n-triple 데이터를 Sequential 데이터로 재구성하는 아이디어 제안
+  - C-RNN 모델을 적용한 Scene Graph Generation 아키텍쳐 설계 및 개발
+  - n-triple 데이터를 Sequential 데이터로 구성하는 아이디어 제안
     
 ---
     
@@ -51,8 +51,8 @@
   **Description**
   - 토픽 모델링 알고리즘 구현 및 개선 
       - 토픽 모델링 알고리즘 PLSA, LDA 구현
-      - 기존 element 연산에서 matrix 연산을 적용한 PLSA 모델 성능 개선
-      - 토픽 분석을 위한 AIC, BIC, CAIC 구현
+      - element 연산에서 matrix 연산을 적용한 PLSA 모델 성능 개선
+      - AIC, BIC, CAIC을 통한 Topic Analysis
     
 ---
     
